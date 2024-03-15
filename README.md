@@ -13,7 +13,7 @@ In the `tutorial.ipynb` file you can find a guidance on how to use the code, pla
 
 
 # Acknowledgments 
-`my_t_sne.py` is based on the work of Alexander Fabisch, Christopher Moody and Nick Travers, and is used under the BSD 3-clause license.
-`shapes.py` and `meshes.py` are based on the work of [Jonathan Viquerat](https://github.com/jviquerat/shapes), and is used under the MIT license.
-tasic et al data and relatd files are based on files from [https://portal.brain-map.org/atlases-and-data/rnaseq](https://portal.brain-map.org/atlases-and-data/rnaseq).
+`my_t_sne.py` is based on the work of Alexander Fabisch, Christopher Moody and Nick Travers, and is used under the BSD 3-clause license.    
+`shapes.py` and `meshes.py` are based on the work of [Jonathan Viquerat](https://github.com/jviquerat/shapes), and is used under the MIT license.    
+tasic et al data and relatd files are based on files from [https://portal.brain-map.org/atlases-and-data/rnaseq](https://portal.brain-map.org/atlases-and-data/rnaseq).    
 Special thanks to Ela Fallik and the Friedman Lab for their guidance and support throughout this project. 
